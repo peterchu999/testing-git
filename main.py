@@ -6,3 +6,6 @@ def calculator(a,b):
 class Pokemon:
     def __init__(self):
         self.name = "test"
+
+
+print("gen")
